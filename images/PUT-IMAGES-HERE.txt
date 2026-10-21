@@ -1,0 +1,2 @@
+Put your product photos and your UPI QR code image (qr.png) in this folder.
+File names must match the paths written in WEBSITE/config.js
